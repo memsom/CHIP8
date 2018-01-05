@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Ratcow.SdlDotNet.Windows</id>
+        <version>1.0.0</version>
+        <title>Packages up SDL1 and dependencies</title>
+        <authors>ratcow</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Packages up SDL1 and dependencies</description>
+    </metadata>
+    <files>
+        <file src="content\jpeg.dll" target="content\jpeg.dll" />
+        <file src="content\libfreetype-6.dll" target="content\libfreetype-6.dll" />
+        <file src="content\libogg-0.dll" target="content\libogg-0.dll" />
+        <file src="content\libpng12-0.dll" target="content\libpng12-0.dll" />
+        <file src="content\libtiff-3.dll" target="content\libtiff-3.dll" />
+        <file src="content\libvorbis-0.dll" target="content\libvorbis-0.dll" />
+        <file src="content\libvorbisfile-3.dll" target="content\libvorbisfile-3.dll" />
+        <file src="content\SDL.dll" target="content\SDL.dll" />
+        <file src="content\SDL_gfx.dll" target="content\SDL_gfx.dll" />
+        <file src="content\SDL_image.dll" target="content\SDL_image.dll" />
+        <file src="content\SDL_mixer.dll" target="content\SDL_mixer.dll" />
+        <file src="content\SDL_net.dll" target="content\SDL_net.dll" />
+        <file src="content\SDL_ttf.dll" target="content\SDL_ttf.dll" />
+        <file src="content\zlib1.dll" target="content\zlib1.dll" />
+        <file src="lib\SdlDotNet.dll" target="lib\SdlDotNet.dll" />
+        <file src="lib\Tao.Sdl.dll" target="lib\Tao.Sdl.dll" />
+    </files>
+</package>

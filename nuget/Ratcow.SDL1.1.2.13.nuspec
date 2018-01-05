@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Ratcow.SDL1</id>
+        <version>1.2.13</version>
+        <authors>ratcow</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Packages SDL1</description>
+    </metadata>
+    <files />
+</package>
